@@ -46,7 +46,8 @@ cd simpsonsapp
 
 ## ▶️ Ejecutar la aplicación con Expo Go
 
-![Local Image](assets/screenshots/expoapp.png)
+<!-- ![Local Image](assets/screenshots/expoapp.png) -->
+<img src="assets/screenshots/expoapp.png" width="250" height="500" alt="Mi imagen">
 
 La aplicación fue desarrollada con Expo y puede ejecutarse fácilmente en dispositivos móviles utilizando Expo Go.
 
@@ -97,27 +98,37 @@ npx expo start -c
 Las capturas de pantallas se encuentran en la carpeta assets/screenshots/
 
 # Inicio App
-![Local Image](assets/screenshots/IMG_1.jpg)
+<!-- ![Local Image](assets/screenshots/IMG_1.jpg) -->
+<img src="assets/screenshots/IMG_1.jpg" width="300" height="600" alt="Mi imagen">
 
 # Pantalla Login
-![Local Image](assets/screenshots/IMG_2.jpg)
+<!-- ![Local Image](assets/screenshots/IMG_2.jpg) -->
+<img src="assets/screenshots/IMG_2.jpg" width="300" height="600" alt="Mi imagen">
 
 # Pantalla Registro
-![Local Image](assets/screenshots/IMG_3.jpg)
+<!-- ![Local Image](assets/screenshots/IMG_3.jpg) -->
+<img src="assets/screenshots/IMG_3.jpg" width="300" height="600" alt="Mi imagen">
 
 # Sección de Personajes Simpsons
-![Local Image](assets/screenshots/IMG_4.jpg)
+<!-- ![Local Image](assets/screenshots/IMG_4.jpg) -->
+<img src="assets/screenshots/IMG_4.jpg" width="300" height="600" alt="Mi imagen">
 
-![Local Image](assets/screenshots/IMG_5.jpg)
+<!-- ![Local Image](assets/screenshots/IMG_5.jpg) -->
+<img src="assets/screenshots/IMG_5.jpg" width="300" height="600" alt="Mi imagen">
 
-![Local Image](assets/screenshots/IMG_6.jpg)
+<!-- ![Local Image](assets/screenshots/IMG_6.jpg) -->
+<img src="assets/screenshots/IMG_6.jpg" width="300" height="600" alt="Mi imagen">
 
 # Sección de Lugares Simpsons
-![Local Image](assets/screenshots/IMG_7.jpg)
+<!-- ![Local Image](assets/screenshots/IMG_7.jpg) -->
+<img src="assets/screenshots/IMG_7.jpg" width="300" height="600" alt="Mi imagen">
 
-![Local Image](assets/screenshots/IMG_8.jpg)
+<!-- ![Local Image](assets/screenshots/IMG_8.jpg) -->
+<img src="assets/screenshots/IMG_8.jpg" width="300" height="600" alt="Mi imagen">
 
-![Local Image](assets/screenshots/IMG_9.jpg)
+<!-- ![Local Image](assets/screenshots/IMG_9.jpg) -->
+<img src="assets/screenshots/IMG_9.jpg" width="300" height="600" alt="Mi imagen">
 
 # Salir de la Aplicación
-![Local Image](assets/screenshots/IMG_10.jpg)
+<!-- ![Local Image](assets/screenshots/IMG_10.jpg) -->
+<img src="assets/screenshots/IMG_10.jpg" width="300" height="600" alt="Mi imagen">
