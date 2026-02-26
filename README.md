@@ -84,3 +84,5 @@ npx expo start -c
 ## 📷 Capturas de pantalla
 
 Las capturas de pantallas se muestran en la carpeta assets/screenshots/...
+
+![Local Image](assets/screenshots/api_simpsons.png)
