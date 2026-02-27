@@ -28,10 +28,10 @@ Personajes: "https://thesimpsonsapi.com/api/characters"
 
 Episodios: "https://thesimpsonsapi.com/api/episodes"
 
-Lugares: "https://thesimpsonsapi.com/api/locations"
+Ubicaciones: "https://thesimpsonsapi.com/api/locations"
 ```
 
-En esta aplicación solo se usó Personajes, Lugares.
+En esta aplicación solo se usó Personajes, Ubicaciones.
 
 ---
 
@@ -119,7 +119,7 @@ Las capturas de pantallas se encuentran en la carpeta assets/screenshots/
 <!-- ![Local Image](assets/screenshots/IMG_6.jpg) -->
 <img src="assets/screenshots/IMG_6.jpg" width="300" height="600" alt="Mi imagen">
 
-# Sección de Lugares Simpsons
+# Sección de Ubicaciones Simpsons
 <!-- ![Local Image](assets/screenshots/IMG_7.jpg) -->
 <img src="assets/screenshots/IMG_7.jpg" width="300" height="600" alt="Mi imagen">
 

@@ -44,12 +44,12 @@ function LocationsStack() {
       <Stack.Screen
         name="Locations"
         component={HomeScreen}
-        options={{ title: "Lugares Simpsons" }}
+        options={{ title: "Ubicaciones Simpsons" }}
       />
       <Stack.Screen
         name="Detail"
         component={DetailScreen}
-        options={{ title: "Detalle del Lugar" }}
+        options={{ title: "Detalle de la ubicación" }}
       />
     </Stack.Navigator>
   );
@@ -93,7 +93,7 @@ function MainTabs() {
       <Tab.Screen
         name="LocationsTab"
         component={LocationsStack}
-        options={{ headerShown: false, title: "Lugares" }}
+        options={{ headerShown: false, title: "Ubicaciones" }}
       />
     </Tab.Navigator>
   );
